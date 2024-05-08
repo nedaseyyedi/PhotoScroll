@@ -14,3 +14,4 @@ For details, please reference [UIScrollView Tutorial: Getting Started](https://w
 ## Screenshots
 ![PhotoScroll](./PhotoScroll.gif)
 
+# PhotoScroll

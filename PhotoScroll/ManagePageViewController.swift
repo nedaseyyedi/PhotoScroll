@@ -1,9 +1,3 @@
-//
-//  ManagePageViewController.swift
-//  PhotoScroll
-//
-//  Copyright © 2017 raywenderlich. All rights reserved.
-//
 
 import UIKit
 
